@@ -185,7 +185,8 @@ span{
 .picture-row-container{
     display: flex;
     justify-content: space-between; 
-    margin-bottom: 40px;
+    margin-bottom: 48px;
+    padding-bottom: 20px;
 }
 .row-picture img{
 height:300px;
