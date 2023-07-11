@@ -1,0 +1,42 @@
+*{
+    font-family: 'Lato', sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+/* Header styling starts */
+.header-container{
+    display: flex;
+    background-color: rgba(229, 84, 115,0.1);
+}
+.header-image{
+    max-height: 100vh;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 50px;
+}
+.banner-container{
+    margin-top: 150px;
+    margin-left: 100px;
+}
+.banner-title{
+    color: #272727;
+font-size: 65px;
+font-weight:800;
+}
+.banner-description{
+    padding: 20px 0px;
+    color: rgba(39, 39, 39, 0.6);
+    font-size: 16px;
+    font-weight: 400;
+
+}
+.button-primary{
+    background-color: rgb(229, 84, 115);
+    border: none;
+    border-radius: 8px;
+    color: white;
+    padding: 17px 38px;
+    font-size: 18px;
+    font-weight: 700;
+}
