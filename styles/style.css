@@ -44,6 +44,8 @@ font-weight:800;
 /* Header section finished */
 
 /* main section start */
+
+/* Main first part start */
 .main-first-container{
     text-align: center;
     
@@ -63,4 +65,51 @@ font-weight:800;
     font-weight: 400;
     padding: 0px 500px 48px 500px;
     
+}
+
+/* Main first Part End */
+
+/* Main second start */
+.main-second-container{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.common-size{
+    width: 350px;
+    height: 420px;
+    border-radius: 300px 300px 0px 0px;
+}
+
+.flower-display-1{ 
+    background: rgba(167, 33, 98, 0.15);
+}
+.flower-display-2{
+    background: rgba(5, 151, 160, 0.15);
+}
+.flower-display-3{
+    background: rgba(71, 125, 17, 0.15);
+}
+.second-flower-1{
+height: 350px;
+padding-left: 35px;
+padding-top: 70px;
+}
+.second-flower-2{
+    height: 300px;
+    padding-top: 70px;
+    padding-left: 40px; 
+}
+.second-flower-3{
+    height: 375px;
+    padding-top: 45px;
+    padding-left: 50px;
+}
+.flower-display-caption{
+    margin-top: 32px;
+    color: #272727;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 700;
+    text-decoration-line: underline;
 }
