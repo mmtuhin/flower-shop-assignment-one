@@ -21,7 +21,7 @@
 }
 .banner-title{
     color: #272727;
-font-size: 65px;
+font-size: 75px;
 font-weight:800;
 }
 .banner-description{
@@ -39,4 +39,28 @@ font-weight:800;
     padding: 17px 38px;
     font-size: 18px;
     font-weight: 700;
+}
+
+/* Header section finished */
+
+/* main section start */
+.main-first-container{
+    text-align: center;
+    
+    
+}
+.main-first-title{
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+    padding-top: 170px;
+    padding-bottom: 24px;
+}
+.main-first-description{
+    text-align: center;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    padding: 0px 500px 48px 500px;
+    
 }
