@@ -21,7 +21,7 @@
 }
 .banner-title{
     color: #272727;
-font-size: 75px;
+font-size: 60px;
 font-weight:800;
 }
 .banner-description{
@@ -123,7 +123,7 @@ padding-top: 70px;
     text-align: center;
     border-radius: 8px;
     background-color: rgba(39, 39, 39, 0.05);
-    margin: 60px 345px;
+    margin: 60px 115px;
     padding: 50px;
 }
 .third-container-image{
@@ -139,3 +139,33 @@ padding-top: 70px;
     line-height: 35px;
     margin: 0px 0px 30px 0px;
 }
+
+/* Main Third part end */
+
+/* Main fourth part start */
+.main-fourth-container{
+    display: flex;
+    background-color: rgba(229, 84, 115, 0.05);
+    text-align: center;
+    align-items: center;
+}
+.main-fourth-row{
+    margin: 100px;
+}
+.main-fourth-title{
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+}
+.main-fourth-description{
+    margin-top: 24px;
+    margin-bottom: 32px;
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+}
+span{
+    color: rgba(229, 84, 115, 1);
+}
+/* Main fourth part End */
