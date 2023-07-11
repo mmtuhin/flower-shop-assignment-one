@@ -73,7 +73,7 @@ font-weight:800;
 .main-second-container{
     display: flex;
     justify-content: center;
-    gap: 20px;
+    gap: 40px;
 }
 .common-size{
     width: 350px;
@@ -112,4 +112,30 @@ padding-top: 70px;
     font-size: 18px;
     font-weight: 700;
     text-decoration-line: underline;
+}
+
+/* Main second end */
+/* Main Third part start */
+.main-third-container{
+    display: flex;
+    /* align-content: center; */
+    justify-content: space-around;
+    text-align: center;
+    border-radius: 8px;
+    background-color: rgba(39, 39, 39, 0.05);
+    margin: 60px 345px;
+    padding: 50px;
+}
+.third-container-image{
+    height: 66px;
+    margin: 30px 0px 0px 0px;
+}
+
+.third-container-description{
+    color: rgba(39, 39, 39, 0.80);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 35px;
+    margin: 0px 0px 30px 0px;
 }
