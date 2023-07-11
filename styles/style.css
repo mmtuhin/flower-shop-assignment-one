@@ -145,7 +145,7 @@
     align-items: center;
 }
 .main-fourth-row{
-    margin: 100px;
+    margin: 80px;
 }
 .main-fourth-title{
     color: #272727;
@@ -267,4 +267,5 @@ span{
     padding: 7px 0px;
     font-size: 100px;
     text-align: center;
+  
   }
